@@ -1,0 +1,11 @@
+[
+  {"name": "IntelParallelStudio", "ip": "10.16.4.207"},
+  {"name": "IntelParallelCluster", "ip": "10.16.4.206"},
+  {"name": "Maple", "ip": "10.16.4.90"},
+  {"name": "Mathematica", "ip": "10.16.4.40"},
+  {"name": "Techplot", "ip": "10.16.4.89"},
+  {"name": "Matlab", "ip": "10.16.4.41"},
+  {"name": "Softshare", "ip": "10.16.4.96"},
+  {"name": "VS1_Hifun", "ip": "10.16.2.150"},
+  {"name": "VS2_Hifun", "ip": "10.16.2.151"}
+]
